@@ -1,0 +1,11 @@
+{
+  "name": "com.yourusername.packagetest",
+  "version": "1.0.0",
+  "displayName": "Package Test",
+  "description": "A test Unity package",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  }
+}
