@@ -1,6 +1,6 @@
 {
   "name": "com.yourusername.packagetest",
-  "version": "2.1.3",
+  "version": "2.0.0",
   "displayName": "My Package",
   "description": "This is my awesome Unity package",
   "unity": "2021.3",
