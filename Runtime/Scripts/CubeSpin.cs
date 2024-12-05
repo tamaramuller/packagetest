@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace YourCompany.CubeSpin
+namespace com.yourusername.packagetest
 {
     public class CubeSpin : MonoBehaviour
     {
