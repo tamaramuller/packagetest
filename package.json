@@ -1,9 +1,9 @@
 {
-  "name": "com.yourcompany.packagename",
+  "name": "com.yourusername.packagetest",
   "version": "1.0.0",
   "displayName": "Your Package Name",
   "description": "Detailed description of the package",
-  "unity": "2020.3",
+  "unity": "2022.3",
   "dependencies": {
     "com.unity.collections": "1.2.4"
   },
