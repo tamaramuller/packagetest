@@ -31,5 +31,8 @@
       "notes": "Major update with several new systems and APIs"
     }
   ]
-}
+    {
+  "dependencies": {
+    "com.yourusername.packagetest": "2.1.2"
+  }
 }
