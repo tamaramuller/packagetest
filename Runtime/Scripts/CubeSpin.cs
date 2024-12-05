@@ -4,6 +4,7 @@ namespace com.yourusername.packagetest
 {
     public class AdvancedCubeSpin : MonoBehaviour
     {
+        public bool newVersionasd;
         [Tooltip("Rotation speed in degrees per second")]
         public float rotationSpeed = 100f;
 
