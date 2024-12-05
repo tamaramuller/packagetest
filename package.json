@@ -1,23 +1,10 @@
-{
-  "name": "com.yourusername.packagetest",
-  "version": "1.0.0",
-  "displayName": "Your Package Name",
-  "description": "Detailed description of the package",
-  "unity": "2022.3",
-  "dependencies": {
-    "com.unity.collections": "1.2.4"
-  },
-  "keywords": [
-    "utility",
-    "tools",
-    "framework"
-  ],
-  "author": {
-    "name": "Your Company Name",
-    "email": "contact@yourcompany.com",
-    "url": "https://yourcompany.com"
-  }
-"version-history": [
+  "name": "com.yourcompany.packagetest",
+  "version": "2.1.3",
+  "displayName": "My Package",
+  "description": "This is my awesome Unity package",
+  "unity": "2021.3",
+  "changelogUrl": "https://your-package-repo.com/changelog.md",
+  "version-history": [
     {
       "version": "2.1.3",
       "released": "2023-05-15",
@@ -39,5 +26,4 @@
       "notes": "Major update with several new systems and APIs"
     }
   ]
-
 }
