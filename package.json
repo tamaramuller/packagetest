@@ -22,5 +22,7 @@
   }
   "dependencies": {
     "com.zengo.packagetest": "https://github.com/tamaramuller/packagetest#3.1.0"
+	"com.zengo.packagetest": "^1.2.3"
+    
   }
 }
