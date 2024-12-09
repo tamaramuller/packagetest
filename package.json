@@ -1,6 +1,32 @@
 {
   "name": "com.zengo.packagetest",
-  "version": "5.0.0",
+  "version": "7.0.0",
+  "displayName": "PackageTest",
+  "unity": "2019.4",
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "pakktest",
+    "loader",
+    "fileloader"
+  ],
+  "author": {
+    "name": "Zengo",
+    "email": "",
+    "url": "https://github.com/tamaramuller/packagetest.git"
+  },
+  "type": "library",
+  "changelog": {
+    "1.0.0": "Major update with several new systems and APIs (Released 2023-03-31)",
+    "3.1.0": "Major update with several new systems and APIs (Released 2023-03-31)"
+  },
+  "dependencies": {
+    "com.unity.modules.physics": "1.0.0"
+  }
+}
+{
+  "name": "com.zengo.packagetest",
+  "version": "6.0.0",
   "displayName": "PackageTest",
   "unity": "2019.4",
   "license": "MIT",
