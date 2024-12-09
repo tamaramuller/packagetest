@@ -12,6 +12,7 @@ namespace com.yourusername.packagetest
         [Tooltip("Use world axis for rotation instead of local axis")]
         public bool useWorldAxis = true; // New property
         // comment 1
+        // comment 2
 
         private void Update()
         {
