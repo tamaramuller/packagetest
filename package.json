@@ -1,6 +1,6 @@
 {
   "name": "zengo.packagetest",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "displayName": "PackageTest",
   "unity": "2019.4",
   "license": "MIT",
@@ -18,5 +18,8 @@
   "type": "library",
   "changelog": {
     "1.0.0": "Major update with several new systems and APIs (Released 2023-03-31)"
+  }
+  "dependencies": {
+    "com.zengo.packagetest": "https://github.com/tamaramuller/packagetest#3.0.0"
   }
 }
