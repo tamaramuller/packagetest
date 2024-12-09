@@ -17,12 +17,10 @@
   },
   "type": "library",
   "changelog": {
-    "1.0.0": "Major update with several new systems and APIs (Released 2023-03-31)"
-	"3.1.0": "Major update with several new systems and APIs (Released 2023-03-31)"
-  }
+    "1.0.0": "Major update with several new systems and APIs (Released 2023-03-31)",
+    "3.1.0": "Major update with several new systems and APIs (Released 2023-03-31)"
+  },
   "dependencies": {
     "com.zengo.packagetest": "https://github.com/tamaramuller/packagetest#3.1.0"
-	"com.zengo.packagetest": "^1.2.3"
-    
   }
 }
