@@ -13,6 +13,7 @@ namespace com.yourusername.packagetest
         public bool useWorldAxis = true; // New property
         // comment 1
         // comment 2
+        // comment 3
 
         private void Update()
         {
