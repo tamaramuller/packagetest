@@ -7,6 +7,7 @@ namespace com.yourusername.packagetest
         public bool newVersionasd;
         [Tooltip("Rotation speed in degrees per second")]
         public float rotationSpeed = 100f;
+        public bool dsjélkfjlaséjfslédfjléfj;
 
         [Tooltip("Use world axis for rotation instead of local axis")]
         public bool useWorldAxis = true; // New property
